@@ -80,3 +80,11 @@ willen: Falschangaben haften an der antragstellenden Person, nicht am Verfasser.
 **Offene Recherche (Websuche-Limit dieser Session erreicht, Reset 9:30 UTC):**
 regionale Einzelfallfonds Essen/Köln, kirchliche Beihilfen Bistümer, krankheitsspezifische
 Stiftungen (hängen an A5), Gründerstipendium.NRW im Detail, weitere NRW-Studierendenwerk-Härtefonds.
+
+## Ergänzung 31.08.2026 (Recherche-Runde 2)
+- **Neufund Kölner Gymnasial- und Stiftungsfonds** (Ordner 17): bis 5.000 €/Jahr Zuschuss,
+  Abitur ≥ 2,0 (1,4 ✅), nach sozialer Lage, keine Gutachten. Fenster 01.02.–01.03.2027
+  (Eiloption bis 01.09.2026). Motivationsschreiben liegt fertig.
+- Erzbischöflicher Hilfsfonds Köln + Caritas-Fonds als einmalige Nothilfen ergänzt (über
+  Sozialberatung/Gemeinde, Pipeline Abschnitt G).
+- Nächste Runde: hey-uni.de, Stipendienlotse, Deutsches Stiftungszentrum systematisch durchgehen.

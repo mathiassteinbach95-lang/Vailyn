@@ -164,3 +164,30 @@ Regionale Einzelfallfonds Essen/Köln (Bürgerstiftungen, Kölner Gymnasial- und
 kirchliche Beihilfen der Bistümer Essen/Köln, krankheitsspezifische Stiftungen (hängen an
 Diagnose A5), Härtefonds einzelner NRW-Studierendenwerke, Gründerstipendium.NRW im Detail.
 Diese Runde war durch das Suchlimit dieser Session abgeschnitten — kein inhaltlicher Blocker.
+
+---
+
+## G. Nachtrag Recherche-Runde 2 (31.08.2026, nach Reset des Websuche-Limits)
+
+Strategischer Befund der Runde: **Kleine/mittlere Stiftungen haben eine deutlich höhere
+Erfolgsquote als die großen Werke** (Schnitt ~41 % vs. < 20 %) und verlangen oft nur
+Lebenslauf + Motivationsschreiben statt zwei Fachgutachten. Sie umgehen damit den
+Gutachter-Engpass (C13) und passen exakt zum Auftrag „lieber ein Euro als kein Euro".
+
+| # | Programm | Typ | Leistung | V | Status | Notiz |
+|---|---|---|---|---|---|---|
+| 17 | **Kölner Gymnasial- und Stiftungsfonds** | Stipendium (Zuschuss) | **bis 5.000 €/Jahr, keine Rückzahlung** | S² | `DEFER` → **01.02.–01.03.2027** (Eiloption bis 01.09.2026) | **Top-Neufund.** Nur Abitur ≥ 2,0 als harte Hürde (1,4 ✅), Vergabe nach sozialer Lage, keine Gutachten. Kölner Fonds → Umzug ist Standortvorteil. Eigener Ordner 17. |
+| 20 | **Erzbischöflicher Hilfsfonds (Erzbistum Köln, Stiftungszentrum)** | einmalige Nothilfe | einmalige Beihilfe bei finanzieller/gesundheitlicher Notlage | S | `RESEARCH` | Wird **über eine katholische Einrichtung/Pfarrei/Caritas** beantragt, nicht direkt. Anknüpfung: kath. Konfession + GdB 70 + Notlage. Zugang über Sozialberatung/Gemeinde (Nr. 15). |
+| 21 | **Caritas Diözesan-Fonds / Ehe- und Familienfonds (Erzbistum Köln)** | einmalige Beihilfe | Einzelfallhilfe | S | `RESEARCH` | Über den örtlichen Caritasverband. Anlass Umzug/Erstausstattung. |
+
+**Geprüft und verworfen in Runde 2 (dokumentiert, nicht verschwiegen):**
+- **Neumayer Stiftung** — Einzelfallhilfe nur für Menschen aus/um **Hausach** (Schwarzwald). Kein Bezug.
+- **Stiftung Kartei der Not** — regional Bayern/Augsburg. Kein Bezug.
+- **Barbara-Schadeberg-Stiftung** — evangelische Bildung/Schulen. Konfession und Zielgruppe passen nicht.
+- **Landesstiftung NRW Wohlfahrtspflege** — nur Einrichtungen/Projekte (bereits Nr. 17 in Abschnitt F).
+
+**Weitere Kandidatenquellen (systematisch abzugrasen, sobald Zeit):**
+hey-uni.de (Anbieterliste), Stipendienlotse (BMBF), Deutsches Stiftungszentrum (deutsches-stiftungszentrum.de),
+Stiftungssuche des Bundesverbands Deutscher Stiftungen, e-fellows „skurrile Stipendien".
+Diese enthalten je Dutzende kleiner Stiftungen mit exotischen, notenfernen Kriterien — genau das
+gesuchte Segment. Nächste Recherche-Runde setzt hier an.
