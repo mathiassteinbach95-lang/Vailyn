@@ -1,0 +1,6 @@
+# Amtliche Scans und OCR-Rohtext werden bewusst NICHT versioniert.
+# Sie enthalten Ausweis-/Bescheid-Scans mit besonders sensiblen Personendaten
+# (Schwerbehindertenausweis, Rentenbescheid, JobCenter-Bescheid) und gehören
+# nicht in ein öffentliches Repository.
+Anlagen_Dossier_Mathias_Steinbach.pdf
+_ocr_rohtext.txt
