@@ -6,6 +6,20 @@ Frage stehen, laufen auf `BLOCKED` (siehe `pipeline.md`).
 
 ---
 
+## ✅ ERLEDIGT / Kandidatenentscheidungen (Update 31.08.2026)
+
+- **A1 — beantwortet:** Die Pflegeausbildung 2019–2022 ist **nicht abgeschlossen**. Folge:
+  SBB-Aufstiegsstipendium (pipeline Nr. 5) → **INELIGIBLE**, kein weiterer Aufwand. Im
+  Lebenslauf bleibt die Station als „Ausbildung Gesundheits- und Krankenpflege (2019–2022)"
+  ohne Abschlussbehauptung — das ist korrekt und weiterhin ein starkes Praxissignal.
+- **Deutschlandstipendium (Nr. 1):** Kandidat übernimmt den Uni-Teil selbst (Login,
+  Teilnahmeerklärung, Immatrikulationsbescheinigung). Bleibt `READY_MANUAL`.
+- **Neuer Auftrag:** Fokus auf unbekannte / out-of-the-box-Töpfe — ausdrücklich auch
+  **einmalige Beihilfen und Sachleistungen** ("lieber ein Euro als kein Euro"). Ergebnisse in
+  `pipeline.md` Abschnitt F und den Programmordnern 12–16.
+
+---
+
 ## A. Sperrend — blockiert konkrete Anträge (bitte zuerst)
 
 ### A1. Ist die Ausbildung Gesundheits- und Krankenpflege (2019–2022) **abgeschlossen**? Mit welcher Note?

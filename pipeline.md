@@ -39,7 +39,7 @@ P und Aufwand sind Schätzungen; die Begründung steht in der Notizspalte bzw. i
 | 2 | **DRV Rheinland — Leistungen zur Teilhabe am Arbeitsleben (LTA, §§ 49 ff. SGB IX)** | Sozialleistung / Rechtsanspruch | Studienkosten + Übergangsgeld (deutlich > 10.000 €/J) | laufend, kein Stichtag | ? | `BLOCKED` (A3/A5) | **hoch** | Der DRV Rheinland ist bereits Leistungsträger (EM-Rente-Bescheid 29.07.2026). Ein Studium kann als Teilhabeleistung getragen werden — kein Wettbewerb, sondern Anspruchsprüfung. Größter Hebel überhaupt, aber Diagnose-/Gutachtenlage fehlt. |
 | 3 | **LVR — Eingliederungshilfe, Hilfen zur Hochschulbildung (§ 112 SGB IX)** | Sozialleistung / Rechtsanspruch | bedarfsabhängig, Studienassistenz ohne gesetzliche Stundenobergrenze | laufend; Antrag 2–3 Monate **vor** Studienbeginn empfohlen → **überfällig** | S | `BLOCKED` (A5) | **hoch** | GdB 70 + Präsenzstudium ab 09/2026. Kein Bewerberfeld, sondern Bedarfsprüfung. Antrag sofort stellen, Unterlagen nachreichen. |
 | 4 | **Hans-Böckler-Stiftung — Studienförderung** | Begabtenförderungswerk | ~ BAföG-Höchstsatz + 300 €/Mon. Büchergeld | **02.11.2026** (Fenster ab 15.08.2026, Förderbeginn 06–09/2027) | S² | `DRAFT` | 3.400 | Bestes weltanschauliches und biografisches Match: Bildungsaufsteiger, Berufsausbildung, Erwerbsbiografie, soziales Engagement zählen mehr als ECTS. P≈0,12 · Aufwand 4. |
-| 5 | **SBB — Aufstiegsstipendium** | Stipendium | 1.072 €/Mon. Vollzeit ≈ 12.864 €/J | **22.09.–30.11.2026** | S² | `BLOCKED` (A1) | 1.930 | Schulnoten irrelevant, nur Berufsleistung zählt — passt exakt zum Profil *falls* Pflegeausbildung abgeschlossen und Note ≤ 1,9. P≈0,15 wenn A1 positiv, sonst 0. Aufwand 3. |
+| 5 | ~~SBB — Aufstiegsstipendium~~ | Stipendium | — | — | — | `INELIGIBLE` | 0 | **Ausgeschieden 31.08.2026:** Kandidat hat bestätigt, dass die Pflegeausbildung 2019–2022 **nicht abgeschlossen** ist. Abgeschlossene Berufsausbildung ist zwingende Zugangsvoraussetzung. Siehe Abschnitt E. |
 | 6 | **Cusanuswerk** | Begabtenförderungswerk (kath.) | ~ BAföG-Höchstsatz + 300 €/Mon. | **01.11.2026** (Anmeldeschluss) | S | `DRAFT` | 1.100 | Abiturzeugnis weist „Religionsbekenntnis: römisch-katholisch" aus → formale Grundvoraussetzung erfüllt. Cusanuswerk gewichtet Persönlichkeit und Werdegang stark. Schwäche: Leistungsnachweis. P≈0,06 · Aufwand 4. |
 | 7 | **SGB XII — Hilfe zum Lebensunterhalt bei *vorübergehender* voller Erwerbsminderung** | Sozialleistung | ~ 563 € Regelsatz + KdU ≈ 12.000 €/J | laufend | S | `BLOCKED` (A3/A4) | **hoch** | Die EM-Rente ist **befristet** (bis 30.06.2027) = vorübergehende volle Erwerbsminderung. Für diese Konstellation ist HLU nach SGB XII neben dem Studium der einschlägige Weg — nicht SGB II. Löst zugleich das JobCenter-Darlehensproblem. |
 | 8 | **Rosa-Luxemburg-Stiftung — Studienwerk** | Begabtenförderungswerk | ~ BAföG-Höchstsatz + 300 €/Mon. | **01.10.2026** (Fenster ab Mitte August) | S | `RESEARCH` | 620 | Frist offen, aber weltanschauliche Passung fraglich: Volt-Mitgliedschaft vs. erwartete Nähe zum linken Spektrum. Erst Eligibility klären (Ausschluss konkurrierender Parteibindung?), dann entscheiden. |
@@ -133,3 +133,34 @@ Programme mit zwingendem Notenspiegel gehen auf `DEFER` in die Runde nach dem er
 Der Lauf konzentriert Kraft auf drei Kategorien, in denen fehlende ECTS **kein** Ausschluss sind:
 (1) Erstsemester-offene Stipendien, (2) zielgruppenspezifische Töpfe (Behinderung, Härtefall),
 (3) bonitätsunabhängige Finanzierung. Genau dort liegen auch die höchsten EV-Werte.
+
+---
+
+## F. Out-of-the-box — einmalige Beihilfen & Sachleistungen (Update 31.08.2026)
+
+Auftrag des Kandidaten: unbekannte, kleine, unkonventionelle Töpfe; **einmalige Leistungen und
+Sachleistungen ausdrücklich erwünscht** — „lieber ein Euro als kein Euro". Diese Kategorie
+gewinnt genau deshalb, weil sie kein Bewerberfeld, keine Gutachter und keinen Notenspiegel hat.
+
+**Mechanik, die man kennen muss:** Viele Stiftungs-Einzelfallhilfen kann man **nicht selbst**
+beantragen — sie laufen über eine Sozialberatung / einen Wohlfahrtsverband (Caritas, Diakonie,
+Der Paritätische, SKM), die den Antrag beim Stiftungsfonds stellt. Der schnellste Zugang zu
+diesem ganzen Feld ist deshalb **ein Termin bei einer Sozialberatung** (Kölner Studierendenwerk,
+Nr. 15) — von dort öffnen sich mehrere Töpfe auf einmal.
+
+| # | Programm | Typ | Leistung | V | Status | Notiz |
+|---|---|---|---|---|---|---|
+| 12 | **Rundfunkbeitrag — Befreiung/Ermäßigung** | Sachleistung (Ersparnis) | volle Befreiung bei SGB-XII/BAföG-Bezug, sonst Ermäßigung auf 1/3 mit Merkzeichen RF; **bis 3 Jahre rückwirkend** | S² | `READY_MANUAL` | Sichere ~220 €/Jahr, evtl. Nachzahlung rückwirkend. Kein Wettbewerb. Sofort machbar, sobald ein Sozialleistungs-Bescheid oder Merkzeichen RF vorliegt. |
+| 13 | **IT-Sachspende (Laptop/PC)** | Sachleistung | kostenloses refurbished Notebook/PC | S² | `READY_MANUAL` | HEY, ALTER! · Computertruhe e.V. · PC-Spende (Das macht Schule). Für ein Präsenzstudium unmittelbar nützlich, Aufwand ≈ 1. Nachweis der Bedürftigkeit (Bescheid) genügt meist. |
+| 14 | **Stiftung MyHandicap — Einzelfallhilfe** | einmalige Beihilfe | einmalige finanzielle Hilfe für Menschen mit Behinderung in Not | S | `BLOCKED` (A5) | Braucht Bedarfsbeschreibung + Diagnose (A5). GdB 70 ist starke Grundlage. |
+| 15 | **Sozialberatung Kölner Studierendenwerk → Einzelfallfonds** | Beratung + einmalige Beihilfe | Zugang zu Härte-/Nothilfefonds, Freitisch, Kurzdarlehen 250 € ohne Bürgen | S | `READY_MANUAL` | **Der Türöffner.** Ein Termin, mehrere Töpfe. Zugleich die Stelle für die Rechtsfragen A3/A4. Aufwand 1. |
+| 16 | **Gründerförderung (Selbstständigkeit seit 2022)** | Zuschuss/Stipendium | z. B. Gründerstipendium.NRW ~1.000 €/Mon., REACH/Gründungsstipendien | ? | `RESEARCH` | Er ist selbstständiger Reseller — theoretisch Zugang zu Gründerförderung. **Zwei Haken:** (a) meist für *innovative Neugründung*, nicht laufenden Handel seit 2022; (b) Einkommen könnte auf EM-Rente angerechnet werden (A3). Erst prüfen, dann bewerten. |
+| 17 | **Stiftung des Landes NRW für Wohlfahrtspflege** | Projektförderung | bis 50 % Projektkosten | S | `INELIGIBLE` | Fördert **Einrichtungen/Projekte**, keine studierenden Einzelpersonen. Dokumentiert, weil naheliegend gesucht. |
+| 18 | **Bundesweiter Härtefallfonds / Überbrückungshilfe (2.500 €)** | einmalige Beihilfe | 2.500 € Einmalzahlung | S | `INELIGIBLE` | Mittel erschöpft, **ab 2026 keine weitere Förderrunde**. Nur als „geprüft und zu" dokumentiert. |
+| 19 | **Einzelfallhilfe über Wohlfahrtsverbände (Caritas/Diakonie/Paritätischer)** | einmalige Beihilfe/Sachleistung | Erstausstattung, Möbel-/Umzugsbeihilfe, Nothilfe | ? | `RESEARCH` | Läuft über Sozialberatung (Nr. 15). Umzug Essen→Köln 09/2026 ist ein konkreter, förderfähiger Anlass. |
+
+### Noch zu recherchieren, sobald Websuche-Limit zurück ist (Reset 9:30 UTC)
+Regionale Einzelfallfonds Essen/Köln (Bürgerstiftungen, Kölner Gymnasial- und Stiftungsfonds),
+kirchliche Beihilfen der Bistümer Essen/Köln, krankheitsspezifische Stiftungen (hängen an
+Diagnose A5), Härtefonds einzelner NRW-Studierendenwerke, Gründerstipendium.NRW im Detail.
+Diese Runde war durch das Suchlimit dieser Session abgeschnitten — kein inhaltlicher Blocker.

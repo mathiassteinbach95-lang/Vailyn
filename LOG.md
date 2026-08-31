@@ -58,3 +58,25 @@ willen: Falschangaben haften an der antragstellenden Person, nicht am Verfasser.
 | Datum | Ereignis |
 |---|---|
 | 31.08.2026 | Kampagne aufgesetzt. Dossier gesichtet (44 Seiten, 7 Anlagen), Fakten extrahiert, 6 Widersprüche bzw. Lücken dokumentiert. 59 Programme recherchiert, 19 als `INELIGIBLE` ausgeschieden, Top-11 in Ordnern angelegt, vier Motivationsschreiben verfasst, `OPEN_QUESTIONS.md` mit 6 sperrenden und 5 Widerspruchspunkten vorgelegt. |
+
+---
+
+## Ergänzung 31.08.2026 — Kandidatenentscheidungen + Out-of-the-box-Töpfe
+
+**Entschieden:**
+- Deutschlandstipendium (Nr. 1): Kandidat macht Uni-Teil selbst → bleibt READY_MANUAL.
+- Aufstiegsstipendium (Nr. 5): keine abgeschlossene Ausbildung → INELIGIBLE, gestrichen.
+
+**Neue Sofort-Gewinne (kein Wettbewerb, sofort machbar):**
+
+| Priorität | Was | Datei |
+|---|---|---|
+| sofort | Sozialberatung Kölner Studierendenwerk — Türöffner zu Einzelfallfonds (Di tel. 10–12) | `programs/15-.../SUBMIT_ME.md` |
+| sofort | Rundfunkbeitrag befreien/ermäßigen (bis 3 J. rückwirkend, ~220 €/Jahr) | `programs/12-.../SUBMIT_ME.md` |
+| diese Woche | Kostenlosen Laptop/PC anfragen (HEY ALTER!, Computertruhe) | `programs/13-.../SUBMIT_ME.md` |
+| nach A5 | Stiftung MyHandicap Einzelfallhilfe | `programs/14-.../SUBMIT_ME.md` |
+| prüfen | Gründerförderung — nur falls innovatives Neuvorhaben + Renten-Anrechnung geklärt | `programs/16-.../research.md` |
+
+**Offene Recherche (Websuche-Limit dieser Session erreicht, Reset 9:30 UTC):**
+regionale Einzelfallfonds Essen/Köln, kirchliche Beihilfen Bistümer, krankheitsspezifische
+Stiftungen (hängen an A5), Gründerstipendium.NRW im Detail, weitere NRW-Studierendenwerk-Härtefonds.
