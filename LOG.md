@@ -112,3 +112,13 @@ Stiftungen (hängen an A5), Gründerstipendium.NRW im Detail, weitere NRW-Studie
 
 ## Nachfassfristen ergänzt
 | 15.11.2026 | e-fellows.net Diversity-Stipendium (offen, ~20 Min.) |
+
+## Ergänzung 31.08.2026 (Recherche-Runde 5 — allgemeine Härtefallfonds)
+- **Otto und Lonny Bayer Stiftung** (Ordner 20): NRW-Schwerpunkt, Behinderte ausdrücklich,
+  fördert Hilfsmittel/Miete/Energie → bester allgemeiner Notlagen-Fonds. READY_MANUAL (Sozialbericht).
+- **Hans-Rosenthal-Stiftung** (Ordner 21): einmalige zweckgebundene Sachhilfe, über Sozialamt/Caritas.
+- Kommunale Stiftungsmittel Essen/Köln + „Restlücken"-Stiftungen bei Behinderung ergänzt (RESEARCH/BLOCKED A5).
+- **Kernmechanismus dokumentiert:** Diese Fonds laufen über einen Sozialbericht (Nr. 15) und setzen
+  ausgeschöpfte Regelleistungen (Nr. 07) voraus → Reihenfolge festgelegt.
+- Verworfen: wir helfen (nur Kinder), Fürst Donnersmarck (Berlin/Dienste), Aktion Mensch/Fernsehlotterie
+  (nur Projekte), Kartei der Not (Bayern).

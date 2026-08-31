@@ -249,3 +249,36 @@ Erstakademiker-Status** zum Auswahlkriterium machen — Noten zweitrangig. Genau
 Bewerbung **im 1. Semester**. Bei künftigen Funden dieses Typs **zuerst Alter und Fachsemester
 prüfen** — das ist bei diesem Kandidaten (30 J., ab dem 3. FS im Verlauf) der häufigste
 Ausschlussgrund. EY und e-fellows sind gerade deshalb wertvoll: sie haben diese Grenzen nicht.
+
+---
+
+## J. Recherche-Runde 5 (31.08.2026) — allgemeine Härtefall-/Notlagenfonds (NICHT studienspezifisch)
+
+Auftrag: raus aus der Studenten-Nische — Fonds für bedürftige Menschen, für Behinderte, für
+Notlagen allgemein. **Zentraler Mechanismus:** Fast alle dieser Fonds verlangen einen
+**Sozialbericht / eine Stellungnahme** einer Sozialberatung oder eines Wohlfahrtsverbands und
+setzen voraus, dass die **gesetzlichen Leistungen (SGB XII, Eingliederungshilfe) zuerst
+ausgeschöpft** sind. Deshalb ist die Reihenfolge: **erst Nr. 07 (SGB XII) und Nr. 15
+(Sozialberatung), dann diese Fonds.** Nr. 15 ist der Türöffner — der Sozialbericht, den es dort
+gibt, ist der Schlüssel zu diesem ganzen Abschnitt.
+
+| Programm | Zielgruppe | Leistung | Status | Notiz |
+|---|---|---|---|---|
+| **Otto und Lonny Bayer Stiftung** (Ordner 20) | bedürftige Einzelpersonen, **ausdrücklich Behinderte**, **Schwerpunkt NRW** | einmalige Beihilfe: Hilfsmittel, **Miete/Energie**, KV-Schulden | `READY_MANUAL` | **Bester allgemeiner Treffer.** Formloser Antrag + Sozialbericht. Anlass Umzug/Behinderung. |
+| **Hans-Rosenthal-Stiftung** (Ordner 21) | Privatpersonen in unverschuldeter existenzieller Not | einmalige, zweckgebundene Sachhilfe (zahlt direkt an Anbieter) | `READY_MANUAL` | Erst nach Ausschöpfung der Regelleistungen, für konkrete Restlücke. Antrag über Sozialamt/Caritas. |
+| **Kommunale Stiftungsmittel Stadt Essen/Köln** | bedürftige Bürger:innen in Notlage | einmalige Beihilfe aus gebündelten Stiftungsfonds | `RESEARCH` | Modell wie Stadt München („Antrag auf Stiftungsmittel – Privatperson in Notlage"). Über Amt für Soziales/Sozialberatung erfragen (Nr. 15). |
+| **„Restlücken"-Stiftungen bei Schwerbehinderung** | Menschen mit Behinderung | Eigenanteil/Mehrkosten/Umbau-Zuschuss, Hilfsmittel | `BLOCKED` (A5) | Brauchen Kostenvoranschlag + **medizinische Begründung** + GdB-Nachweis + wirtschaftliche Lage. Sobald konkreter Bedarf + Diagnose (A5) da sind, gezielt ansteuern. |
+| **Deutsche Krebshilfe — Härtefonds** | Krebspatient:innen in finanzieller Not | einmalige Beihilfe | `BLOCKED` (A5) | Nur bei Krebsdiagnose. Rein diagnoseabhängig (A5). Dokumentiert für den Fall der Fälle. |
+
+**Geprüft und verworfen in Runde 5 (dokumentiert):**
+- **„wir helfen e.V." (Kölner Stadt-Anzeiger)** — fördert nur **Kinder und Jugendliche**. Mit 30 `INELIGIBLE`.
+- **Fürst Donnersmarck-Stiftung** — Schwerpunkt Berlin, überwiegend eigene Dienste (Wohnen, Reha,
+  Reisen) statt bundesweiter Einzel-Geldhilfe. Geringe Relevanz für Köln/Essen.
+- **Aktion Mensch / Deutsche Fernsehlotterie / Stiftung Deutsches Hilfswerk** — fördern
+  **Projekte/Organisationen**, keine Privatpersonen direkt (bereits als Nr. 56 gelistet). Nur
+  mittelbar über eine Einrichtung.
+- **Stiftung Kartei der Not** — regional Bayern/Augsburg. Kein Bezug.
+
+**Nützliche Übersichten (für die weitere Eigenrecherche):**
+gegen-hartz.de „Schwerbehinderung: Zuschüsse durch Stiftungen und Härtefonds"; einfach-teilhaben.de
+(BMAS); foerdermittel-wissenswert.de „Stiftungen für Einzelfallhilfe"; Reflecta Fördermittelkompass.
