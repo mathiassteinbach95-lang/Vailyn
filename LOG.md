@@ -101,3 +101,14 @@ Stiftungen (hängen an A5), Gründerstipendium.NRW im Detail, weitere NRW-Studie
 
 ## Nachfassfristen ergänzt
 | ~15.08.2027 | EY Deutschland Stiftung — nächste Runde, bis 1.500 €/Mon. (Text liegt) |
+
+## Ergänzung 31.08.2026 (Recherche-Runde 4 — Typ EY / soziale Herkunft)
+- **e-fellows.net Diversity-Stipendium** (Ordner 19): ohne Voraussetzungen, Frist 15.11.2026 OFFEN,
+  600 € + Mentor, kombinierbar → READY_MANUAL, sofort machbar.
+- **B-First (Claussen-Simon)** geprüft und verworfen: Höchstalter 25 → mit 30 ineligibel (trotz
+  perfekter thematischer Passung). Muster notiert: Diversity-Programme oft Altersgrenze ~25 +
+  Bewerbung im 1. Semester → bei künftigen Funden zuerst Alter/Fachsemester prüfen.
+- ArbeiterKind.de als Netzwerk/Mentor-/Gutachterquelle empfohlen (C13-Hebel).
+
+## Nachfassfristen ergänzt
+| 15.11.2026 | e-fellows.net Diversity-Stipendium (offen, ~20 Min.) |

@@ -217,3 +217,35 @@ DSZ-Fördersuche steht noch aus (Zugang nötig).
 DSZ-Fördersuche mit Filtern „Stipendium/Beihilfe" + „Einzelperson" + Thema Wirtschaft/Behinderung;
 stiftungssuche.de (Bundesverband Deutscher Stiftungen); hey-uni.de-Anbieterliste; NRW-Stiftungs-
 verzeichnis (~4.800 Stiftungen). Ansatzpunkte dokumentiert — kein inhaltlicher Blocker, nur Zeit/Zugang.
+
+---
+
+## I. Recherche-Runde 4 (31.08.2026) — „mehr vom Typ EY": soziale Herkunft / Diversität / Erstakademiker
+
+Segment: Unternehmens- und Stiftungsstipendien, die **soziale Herkunft, Brüche im Lebenslauf,
+Erstakademiker-Status** zum Auswahlkriterium machen — Noten zweitrangig. Genau das EY-Muster.
+
+| # | Programm | Typ | Leistung | V | Status | Notiz |
+|---|---|---|---|---|---|---|
+| 19 | **e-fellows.net Diversity-Stipendium** | Stipendium | 600 € / 6 Mon. + Mentor | S² | `READY_MANUAL` · **Frist 15.11.2026 (offen)** | **Ohne Voraussetzungen**, volldigital, kombinierbar, ~20 Min. Mentor = Netzwerk (C13). Eigener Ordner 19. **Sofort machbar.** |
+| 22 | Deutsche Universitätsstiftung — TANDEM | Mentoring + Sachbudget | s. Abschnitt H | S | `RESEARCH` | Erstakademiker; bestätigt: Sachbudget + Technik + Coaching. Erstakademiker-Status klären. |
+
+**Geprüft und verworfen in Runde 4 (wichtig — Fast-Treffer mit harten Grenzen):**
+- **Claussen-Simon-Stiftung „B-First"** — inhaltlich perfekt (Erstakademiker, alle Fächer,
+  Lebenshaltung + Mentoring). **Aber Ausschluss: Höchstalter 25 J. + max. 1. Fachsemester +
+  Abitur ≤ 2,5.** Mit 30 Jahren `INELIGIBLE`. Die Altersgrenze, nicht das Profil, schließt aus.
+- **Deloitte-Stiftung** — s. Abschnitt H (2 Semester + Noten + Partnerlehrstuhl).
+- **Werner Richard – Dr. Carl Dörken Stiftung** — nur Projekte/Einrichtungen in Westfalen, keine
+  Einzelpersonen. `INELIGIBLE`.
+
+**Wichtige Ressource (kein Geldgeber, aber Hebel):**
+- **ArbeiterKind.de** — Netzwerk für Studierende aus nichtakademischen Familien: kostenlose
+  Mentor:innen, Stipendien-Beratung, lokale Gruppen in Köln/Essen. **Direkter Draht zu genau dem
+  Netzwerk, das dem Profil fehlt** — und darüber laufen Hinweise auf weitere Erstakademiker-Töpfe.
+  Empfehlung: früh Kontakt aufnehmen (auch als Gutachter-/Fürsprecher-Quelle für C13).
+
+**Muster-Erkenntnis für die weitere Suche:** Die großen Erstakademiker-/Diversity-Programme
+(B-First, viele Unternehmensstipendien) haben oft **Altersgrenzen um 25–30** und verlangen die
+Bewerbung **im 1. Semester**. Bei künftigen Funden dieses Typs **zuerst Alter und Fachsemester
+prüfen** — das ist bei diesem Kandidaten (30 J., ab dem 3. FS im Verlauf) der häufigste
+Ausschlussgrund. EY und e-fellows sind gerade deshalb wertvoll: sie haben diese Grenzen nicht.
