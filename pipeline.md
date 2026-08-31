@@ -282,3 +282,26 @@ gibt, ist der Schlüssel zu diesem ganzen Abschnitt.
 **Nützliche Übersichten (für die weitere Eigenrecherche):**
 gegen-hartz.de „Schwerbehinderung: Zuschüsse durch Stiftungen und Härtefonds"; einfach-teilhaben.de
 (BMAS); foerdermittel-wissenswert.de „Stiftungen für Einzelfallhilfe"; Reflecta Fördermittelkompass.
+
+---
+
+## K. Recherche-Runde 6 (31.08.2026) — Ansprüche, Sachleistungen & Gründungsförderung
+
+Auftrag: „egal was es für Hilfen gibt" + Prüfung des bund.de-Links zur Gründungsförderung.
+
+| Programm | Typ | Leistung | Status | Notiz |
+|---|---|---|---|---|
+| **Ansprüche & Sachleistungen** (Ordner 22) | Nachteilsausgleiche + Sachleistungen | Zuzahlungsbefreiung KK (1 %-Grenze, 4 J. rückwirkend), Wertmarke ÖPNV, Wohngeld, **Erstausstattung Wohnung** (Umzug!), Tafel, Möbel/Sozialkaufhaus, Stromspar-Check | `READY_MANUAL` | **Viel „stilles" Geld ohne Wettbewerb.** Läuft über Sozialberatung (Nr. 15). Wertmarke hängt an A6, Wohngeld an A4. |
+| **Gründungszuschuss / Einstiegsgeld** (Ordner 23) | Existenzgründungshilfe | — | `INELIGIBLE` | bund.de-Leistung 051130 = Gründungszuschuss (§93 SGB III): setzt **ALG-I-Anspruch** voraus → fehlt. Einstiegsgeld setzt SGB-II-Bezug voraus → ausgeschlossen. Zudem: gefördertes Erwerbseinkommen gefährdet die EM-Rente (A3). Ehrlich verworfen, Rest-Prüfpfad erst nach 06/2027. |
+
+### Wichtigste Einzelposten aus Ordner 22 (weil konkret und sofort)
+- **Erstausstattung der Wohnung** (§ 31 SGB XII / § 24 SGB II) — eigener Anspruch **zusätzlich**
+  zum Regelsatz, an den Umzug Essen→Köln gebunden: Möbel/Haushaltsgeräte als Sach- oder Geldleistung.
+  **Vor dem Umzug** beantragen. Das ist der größte konkrete Sofort-Posten dieser Runde.
+- **Zuzahlungsbefreiung Krankenkasse** — GdB 70 → 1 %-Belastungsgrenze, bis 4 Jahre rückwirkend.
+- **Stromspar-Check (Caritas)** — kostenlose Geräte + Beratung, senkt laufende Kosten.
+
+**Muster-Erkenntnis:** Der größte Hebel liegt nicht in exotischen Stiftungen, sondern im
+**vollständigen Abruf der bestehenden Ansprüche** (Nachteilsausgleiche + Erstausstattung +
+Sachleistungen). Kein Wettbewerb, kein Notenspiegel, teils rückwirkend. Deshalb steht Ordner 22
+in der Priorität ganz vorne neben dem Deutschlandstipendium.

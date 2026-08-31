@@ -122,3 +122,15 @@ Stiftungen (hängen an A5), Gründerstipendium.NRW im Detail, weitere NRW-Studie
   ausgeschöpfte Regelleistungen (Nr. 07) voraus → Reihenfolge festgelegt.
 - Verworfen: wir helfen (nur Kinder), Fürst Donnersmarck (Berlin/Dienste), Aktion Mensch/Fernsehlotterie
   (nur Projekte), Kartei der Not (Bayern).
+
+## Ergänzung 31.08.2026 (Recherche-Runde 6 — Ansprüche/Sachleistungen + Gründung)
+- **Ordner 22 (Ansprüche & Sachleistungen):** Zuzahlungsbefreiung KK (4 J. rückwirkend),
+  Wertmarke ÖPNV (A6), Wohngeld (A4), **Erstausstattung Wohnung** zum Umzug, Tafel, Möbel/
+  Sozialkaufhaus, Stromspar-Check. READY_MANUAL, läuft über Sozialberatung (Nr. 15).
+- **Ordner 23 (Gründungsförderung):** bund.de-Link 051130 = Gründungszuschuss → INELIGIBLE
+  (kein ALG-I-Anspruch); Einstiegsgeld ausgeschlossen; Erwerbseinkommen gefährdet EM-Rente (A3).
+  Ehrlich dokumentiert, Rest-Prüfpfad erst nach Ende der Renten-Befristung 06/2027.
+- Kernbotschaft: größter Hebel = vollständiger Abruf bestehender Ansprüche, nicht exotische Töpfe.
+
+## Nachfassfristen ergänzt
+| vor Umzug 09/2026 | Erstausstattung Wohnung + Umzugskosten/Kaution beim Amt beantragen (Zusicherung vorher!) |
