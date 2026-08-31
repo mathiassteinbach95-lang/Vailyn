@@ -88,3 +88,16 @@ Stiftungen (hängen an A5), Gründerstipendium.NRW im Detail, weitere NRW-Studie
 - Erzbischöflicher Hilfsfonds Köln + Caritas-Fonds als einmalige Nothilfen ergänzt (über
   Sozialberatung/Gemeinde, Pipeline Abschnitt G).
 - Nächste Runde: hey-uni.de, Stipendienlotse, Deutsches Stiftungszentrum systematisch durchgehen.
+
+## Ergänzung 31.08.2026 (Recherche-Runde 3 — DSZ)
+- **EY Deutschland Stiftung** (Ordner 18): bis 1.500 €/Mon., Zielgruppe = Brüche/Umwege +
+  geringe Mittel → beste Profil-Passung für große Summe. Frist 15.08. verpasst → Runde 2027,
+  Text fertig. Nachfassfrist ~15.08.2027.
+- **Deutsche Universitätsstiftung TANDEM** ergänzt (Erstakademiker, Mentoring + Sachbudget —
+  löst nebenbei das Gutachter-/Netzwerkproblem C13). Erstakademiker-Status bestätigen.
+- Deloitte-Stiftung dokumentiert (braucht 2 Semester + Noten + Partnerlehrstuhl → DEFER).
+- Verworfen: Spohn-Stiftung, Uni-Köln-Inklusionsstipendium (Hochschul-/Behinderungsbindung).
+- Offen: DSZ-Fördersuche + stiftungssuche.de Vollabgleich (Zugang/Zeit).
+
+## Nachfassfristen ergänzt
+| ~15.08.2027 | EY Deutschland Stiftung — nächste Runde, bis 1.500 €/Mon. (Text liegt) |

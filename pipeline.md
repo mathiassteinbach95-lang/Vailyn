@@ -191,3 +191,29 @@ hey-uni.de (Anbieterliste), Stipendienlotse (BMBF), Deutsches Stiftungszentrum (
 Stiftungssuche des Bundesverbands Deutscher Stiftungen, e-fellows „skurrile Stipendien".
 Diese enthalten je Dutzende kleiner Stiftungen mit exotischen, notenfernen Kriterien — genau das
 gesuchte Segment. Nächste Recherche-Runde setzt hier an.
+
+---
+
+## H. Recherche-Runde 3 (31.08.2026) — Deutsches Stiftungszentrum & wirtschaftsnahe Stiftungen
+
+Ausgangspunkt: die vom Kandidaten genannte DSZ-Stiftungsliste (Direktabruf durch Egress-Policy
+gesperrt, daher über Websuche erschlossen). Das DSZ verwaltet ~700 Stiftungen; NRW hat mit
+~4.800 die meisten Stiftungen aller Länder. Systematischer Vollabgleich über die
+DSZ-Fördersuche steht noch aus (Zugang nötig).
+
+| # | Programm | Typ | Leistung | V | Status | Notiz |
+|---|---|---|---|---|---|---|
+| 18 | **EY Deutschland Stiftung — Studierendenstipendium** | Stipendium | **bis 1.500 €/Mon.** | S² | `DEFER` (Frist 15.08. verpasst → Runde 2027) | **Beste Profil-Passung der Kampagne für eine große Summe.** Zielkriterien = geringe Mittel, kein Sicherheitsnetz, Erstakademiker, **Brüche/Umwege im Bildungsweg** — trifft direkt zu. Kein Notenspiegel/Gutachten erkennbar. Eigener Ordner 18, Text fertig. |
+| 22 | **Deutsche Universitätsstiftung — TANDEM** | Stipendium (Mentoring + Sachbudget) | 1:1-Mentoring durch Hochschullehrende, Coaching, Jahresbudget für Studienkosten, Workshops | S | `RESEARCH` | Für **Erstakademiker** (erste Generation). Bachelor an staatlicher dt. Hochschule ✅. Kein Geldstipendium, aber Sachbudget + wertvolles Mentoring — und genau das Netzwerk, das dem Profil fehlt (C13-Gutachter!). Erstakademiker-Status bestätigen. |
+| 23 | **Deloitte-Stiftung — Studienstipendium** | Stipendium | 200 €/Mon. + Beihilfen | S | `INELIGIBLE / DEFER` | Setzt Partnerlehrstuhl an einer von 24 Hochschulen, **2 Semester + ausgezeichnete Noten**, Rechnungswesen/WP-Fokus voraus. Ohne ECTS derzeit nicht bewerbbar; Frist 30.06. Frühestens nach 2 Semestern prüfen, ob TH Köln Partner ist. |
+
+**Geprüft und verworfen in Runde 3:**
+- **Karl und Charlotte Spohn Stiftung** — nur Sehbehinderung/Gehörlosigkeit, Berlin/Hamburg. `INELIGIBLE`.
+- **Uni Köln Inklusionsstipendium (Karl-u.-Charlotte-Spohn / Stiftung Studium und Lehre)** — nur
+  Studierende der **Universität zu Köln**, nicht TH Köln. `INELIGIBLE` (wie schon Nr. 44 dokumentiert).
+- **Dr. Willy Rebelein-Stiftung** — bereits als Nr. 27 gelistet (chronisch-entzündliche Darmerkrankungen; hängt an A5).
+
+**Nächste Runde (Vollabgleich, sobald DSZ-Fördersuche zugänglich):**
+DSZ-Fördersuche mit Filtern „Stipendium/Beihilfe" + „Einzelperson" + Thema Wirtschaft/Behinderung;
+stiftungssuche.de (Bundesverband Deutscher Stiftungen); hey-uni.de-Anbieterliste; NRW-Stiftungs-
+verzeichnis (~4.800 Stiftungen). Ansatzpunkte dokumentiert — kein inhaltlicher Blocker, nur Zeit/Zugang.
